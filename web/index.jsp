@@ -8,9 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>服务器和Android交互</title>
   </head>
   <body>
-  $END$
+        服务器和Android交互
+        服务器和Android交互
+        服务器和Android交互
   </body>
 </html>
